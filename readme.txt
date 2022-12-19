@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Thomas Hubber
+Author: Thomas Claudius Hubber
 Twitter: @thomasclaudiush
